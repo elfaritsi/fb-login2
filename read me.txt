@@ -1,0 +1,3 @@
+file .htaccess dibuat untuk merubah http menjadi https,
+karena untuk menggunakan facebook api syaratnya harus menggunakan
+jaringan yang secure
